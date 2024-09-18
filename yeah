@@ -1096,19 +1096,19 @@ end
 
 local themes = {
     Default = {
-        ["Accent"] = Color3.fromRGB(200, 200, 200), -- White or light grey for a clean look
-        ["Window Background"] = Color3.fromRGB(30, 30, 30), -- Same dark background
-        ["Window Border"] = Color3.fromRGB(30, 30, 30), -- Same as background to make it invisible
-        ["Tab Background"] = Color3.fromRGB(20, 20, 20), -- Dark background
-        ["Tab Border"] = Color3.fromRGB(20, 20, 20), -- Same as tab background to make it invisible
-        ["Tab Toggle Background"] = Color3.fromRGB(28, 28, 28), -- Dark grey toggle background
-        ["Section Background"] = Color3.fromRGB(18, 18, 18), -- Dark section background
-        ["Section Border"] = Color3.fromRGB(18, 18, 18), -- Same as section background to make it invisible
-        ["Text"] = Color3.fromRGB(200, 200, 200), -- Clean white text
-        ["Disabled Text"] = Color3.fromRGB(130, 130, 130), -- Light grey for disabled text
-        ["Object Background"] = Color3.fromRGB(25, 25, 25), -- Dark object background
-        ["Object Border"] = Color3.fromRGB(25, 25, 25), -- Same as object background to make it invisible
-        ["Dropdown Option Background"] = Color3.fromRGB(19, 19, 19) -- Same dark dropdown background
+	  	["Accent"] = Color3.fromRGB(67, 67, 67),
+		  ["Window Background"] = Color3.fromRGB(30, 30, 30),
+	  	["Window Border"] = Color3.fromRGB(45, 45, 45),
+	  	["Tab Background"] = Color3.fromRGB(20, 20, 20),
+	  	["Tab Border"] = Color3.fromRGB(45, 45, 45),
+	  	["Tab Toggle Background"] = Color3.fromRGB(28, 28, 28),
+  		["Section Background"] = Color3.fromRGB(18, 18, 18),
+	  	["Section Border"] = Color3.fromRGB(35, 35, 35),
+	  	["Text"] = Color3.fromRGB(200, 200, 200),
+	  	["Disabled Text"] = Color3.fromRGB(110, 110, 110),
+	  	["Object Background"] = Color3.fromRGB(25, 25, 25),
+	  	["Object Border"] = Color3.fromRGB(35, 35, 35),
+	  	["Dropdown Option Background"] = Color3.fromRGB(19, 19, 19)
     },
 
     Midnight = {
